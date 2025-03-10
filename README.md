@@ -1,2 +1,2 @@
-# jaimiem17.github.io
-READ ME
+# READ ME
+Beginning giithub.io for Data Science Project
