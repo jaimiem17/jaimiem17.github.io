@@ -1,2 +1,2 @@
 # READ ME
-Beginning giithub.io for Data Science Project
+Beginning github.io for Data Science Project
