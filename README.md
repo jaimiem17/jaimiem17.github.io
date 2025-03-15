@@ -10,7 +10,7 @@ Write up of our project including our collaboration plans, project plans, our da
 
 
 <details>
-<summary><strong>geothermal.ipynb</strong></summary>
+<summary><strong>Hom-Morris_Geothermal.ipynb</strong></summary>
   
 <br>
 Our notebook including our code and data
