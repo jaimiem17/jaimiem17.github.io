@@ -18,7 +18,7 @@ Our notebook including our code and data
 
 
 <details>
-<summary><strong>geothermal.html</strong></summary>
+<summary><strong>index.html</strong></summary>
   
 <br>
 An html extraction of our notebook including our code and data
