@@ -2,7 +2,7 @@
 ## Files Included
 
 <details>
-<summary><strong>Milestone_1</strong></summary>
+<summary><strong>Milestone1.pdf</strong></summary>
   
 <br>
 Write up of our project including our collaboration plans, project plans, our datasets, and interesting statistics found
